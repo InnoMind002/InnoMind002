@@ -1,5 +1,5 @@
-👋 Hi, I’m ebenezer Kaluba
-👀currently a 4th year student @The Copperbelt University
+Interested in Data Science, Machine Learning and Deep Learning
 📫 How to reach me contact me via
+
 Email:kalubaebenezer0@gmail.com
 
